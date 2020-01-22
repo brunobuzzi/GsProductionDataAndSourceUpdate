@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBpmRuntimeUpdate",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBpmRuntimeUpdate",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

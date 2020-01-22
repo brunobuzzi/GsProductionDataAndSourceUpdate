@@ -1,0 +1,17 @@
+{
+	"category" : "BpmRuntimeUpdate",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"number" ],
+	"name" : "BpmRuntimeUpdateDummyItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : [
+		"normal",
+		[
+			"disallowGciStore" ] ] }
