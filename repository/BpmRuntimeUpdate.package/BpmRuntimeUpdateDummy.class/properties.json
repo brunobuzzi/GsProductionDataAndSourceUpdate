@@ -4,7 +4,6 @@
 		"newDummyCache",
 		"newDummyCache2" ],
 	"classvars" : [
-		"Cache",
 		"NewCache" ],
 	"commentStamp" : "",
 	"instvars" : [
@@ -14,8 +13,5 @@
 	"name" : "BpmRuntimeUpdateDummy",
 	"pools" : [
 		 ],
-	"super" : "Object",
-	"type" : [
-		"normal",
-		[
-			"disallowGciStore" ] ] }
+	"super" : "BpmRuntimeAbstractDummy",
+	"type" : "normal" }

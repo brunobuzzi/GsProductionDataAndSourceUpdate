@@ -1,0 +1,14 @@
+{
+	"category" : "BpmRuntimeUpdateBasic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Cache" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"version" ],
+	"name" : "BpmRuntimeAbstractDummy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

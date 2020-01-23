@@ -1,7 +1,7 @@
 {
 	"category" : "BpmRuntimeUpdate2",
 	"classinstvars" : [
-		 ],
+		"privateCache" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -13,5 +13,5 @@
 	"name" : "BpmRuntimeUpdateDummy2",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BpmRuntimeAbstractDummy",
 	"type" : "normal" }

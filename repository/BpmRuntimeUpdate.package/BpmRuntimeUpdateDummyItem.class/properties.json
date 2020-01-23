@@ -10,8 +10,5 @@
 	"name" : "BpmRuntimeUpdateDummyItem",
 	"pools" : [
 		 ],
-	"super" : "Object",
-	"type" : [
-		"normal",
-		[
-			"disallowGciStore" ] ] }
+	"super" : "BpmRuntimeAbstractDummy",
+	"type" : "normal" }
