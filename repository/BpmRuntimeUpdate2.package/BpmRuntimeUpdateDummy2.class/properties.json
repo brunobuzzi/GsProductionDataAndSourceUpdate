@@ -9,7 +9,8 @@
 		"amount",
 		"date",
 		"timeStamp",
-		"dummy" ],
+		"dummy",
+		"test" ],
 	"name" : "BpmRuntimeUpdateDummy2",
 	"pools" : [
 		 ],

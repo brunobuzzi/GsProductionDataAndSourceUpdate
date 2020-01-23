@@ -9,7 +9,8 @@
 	"instvars" : [
 		"name",
 		"surname",
-		"invoices" ],
+		"invoices",
+		"test" ],
 	"name" : "BpmRuntimeUpdateDummy",
 	"pools" : [
 		 ],
