@@ -1,0 +1,17 @@
+{
+	"category" : "BpmRuntimeUpdate2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"amount",
+		"date",
+		"timeStamp",
+		"dummy" ],
+	"name" : "BpmRuntimeUpdateDummy2",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
