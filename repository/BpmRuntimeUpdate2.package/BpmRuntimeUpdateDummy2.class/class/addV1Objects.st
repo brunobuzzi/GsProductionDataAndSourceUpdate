@@ -3,18 +3,20 @@ addV1Objects
 
 	self new 
 		version: 1;
-		name: 'v1 - 1';
-		surname: 'v1 - 1';
+		dummy: 1;
 		addToCache.
 
 	self new 
 		version: 1;
-		name: 'v1 - 2';
-		surname: 'v1 - 2';
+		dummy: 2;
 		addToCache.
 
 	self new 
 		version: 1;
-		name: 'v1 - 3';
-		surname: 'v1 - 3';
+		dummy: 3;
+		addToCache.
+
+	self new 
+		version: 1;
+		dummy: 4;
 		addToCache.

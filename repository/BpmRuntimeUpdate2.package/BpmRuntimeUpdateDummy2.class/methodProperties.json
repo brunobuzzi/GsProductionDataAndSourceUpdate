@@ -1,6 +1,16 @@
 {
 	"class" : {
-		"cache" : "brunobb 01/23/2020 07:48",
-		"new" : "brunobb 01/23/2020 07:48" },
+		"addV1Objects" : "brunobb 01/23/2020 08:12",
+		"new" : "brunobb 01/23/2020 07:48",
+		"privateCache" : "brunobb 01/23/2020 08:09" },
 	"instance" : {
-		"addToCache" : "brunobb 01/23/2020 07:51" } }
+		"addToPrivateCache" : "brunobb 01/23/2020 08:09",
+		"amount" : "brunobb 01/23/2020 08:12",
+		"amount:" : "brunobb 01/23/2020 08:12",
+		"date" : "brunobb 01/23/2020 08:12",
+		"date:" : "brunobb 01/23/2020 08:12",
+		"dummy" : "brunobb 01/23/2020 08:12",
+		"dummy:" : "brunobb 01/23/2020 08:12",
+		"initialize" : "brunobb 01/23/2020 08:10",
+		"timeStamp" : "brunobb 01/23/2020 08:12",
+		"timeStamp:" : "brunobb 01/23/2020 08:12" } }

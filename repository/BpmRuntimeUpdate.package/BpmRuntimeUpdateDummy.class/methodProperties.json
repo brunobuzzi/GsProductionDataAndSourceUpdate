@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"addToDummyV3Objects" : "brunobb 01/23/2020 07:53",
-		"addV1Objects" : "brunobb 01/23/2020 07:53",
+		"addV1Objects" : "brunobb 01/23/2020 08:11",
 		"cache" : "brunobb 01/23/2020 07:53",
 		"dummyCache" : "brunobb 01/23/2020 07:53",
 		"new" : "brunobb 01/23/2020 07:53" },
@@ -9,6 +9,8 @@
 		"addToCache" : "brunobb 01/23/2020 07:53",
 		"addToDummyCache" : "brunobb 01/23/2020 07:53",
 		"initialize" : "brunobb 01/23/2020 07:53",
+		"invoices" : "brunobb 01/23/2020 08:12",
+		"invoices:" : "brunobb 01/23/2020 08:12",
 		"name" : "brunobb 01/23/2020 07:53",
 		"name:" : "brunobb 01/23/2020 07:53",
 		"removeFromCache" : "brunobb 01/23/2020 07:53",
